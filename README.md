@@ -1,3 +1,3 @@
 # Eve-Backup-Script
 
-Save to desktop. Run as administrator.
+https://github.com/keawepoo/Eve-Backup-Script/releases - Save to desktop, Run as administrator.
