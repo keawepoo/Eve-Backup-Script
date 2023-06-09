@@ -7,5 +7,5 @@ reg EXPORT HKEY_CURRENT_USER\Software\Mumble %userprofile%\Desktop\EVE-Backup\mu
 cd %userprofile%\Desktop\
 tar.exe -a -cf EVE-Backup.zip EVE-Backup
 
-Echo Made by AceSG - Brave - [PEKA]
+Echo Made by AceSG
 PAUSE >nul
